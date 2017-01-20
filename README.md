@@ -1,0 +1,2 @@
+# PowerParadise
+AndroidMobileApp
